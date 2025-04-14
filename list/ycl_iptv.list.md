@@ -1,4 +1,4 @@
-# List for **YueChan-Live IPTV**
+# List for **YueChan-Live IPTV**(Rollback)
 
 > M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
 
@@ -97,4 +97,4 @@
 | 91 | 家有购物 | IPv4 直链 | <rtp://239.3.1.185:8001> |
 | 92 | 聚鲨环球 | IPv4 直链 | <rtp://239.3.1.179:8001> |
 
-Updated at **Mon Apr 14 2025 14:10:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 14 2025 16:12:24 GMT+0000 (Coordinated Universal Time)**
