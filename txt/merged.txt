@@ -97,7 +97,7 @@ Movies,#genre#
 [SD]24_hour_free_movies_(720p),https://stream1.freetv.fun/fb2a4c2a5d7aecaf526252eec6bea6060aec6fcc9e64ffa30c0d8dde5f9281b7.m3u8
 [BD]mytv_super,https://stream1.freetv.fun/56d2acc52a38a6323d8c0acf98bf44c8d1ff540dd13270a390f5b6d2c27ce824.ctv
 [BD]mystery_science_theater_3000=,https://stream1.freetv.fun/24ef54e2d1cd8466c6aa3473b7f410a29fa43c3409da7a0d95180ddac5f259bb.ctv
-[HD]now星影,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.ctv
+[BD]now星影,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.ctv
 [HD]now爆谷,https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.ctv
 [HD]newflix,https://stream1.freetv.fun/5baeb065702464b00394777eb906cfa66af62282d049deb32172e3bda63d43a8.m3u8
 [VGA]nuview_tv,https://stream1.freetv.fun/994d239e37eb1bfc4e13f68e86574898137806bb233c53168ee09795702ac1c5.m3u8
@@ -206,6 +206,7 @@ Movies,#genre#
 [BD]安徽影视,https://stream1.freetv.fun/8d9fb9f7088f6bc05408016d5ea0fe419bf2389c24fe343598fb1c02b3d5150c.m3u8
 [HD]广州影视,https://stream1.freetv.fun/00f34b5229acb38e8dbacc95349044efca70b8b4ced9d96bf61ff1a55af81d96.m3u8
 [BD]广东影视,https://stream1.freetv.fun/a2d64b530b4ef3a54f08da44fc1c815ebcdd9edd674809b32fb9432e84a632c1.ctv
+[HD]恐怖电影,https://stream1.freetv.fun/22d89fde8285a48f452e85d9841677aa8fabd9f9d39823fe4c1e143b85d0b394.ctv
 [HD]爱奇艺,https://stream1.freetv.fun/9dd2f9dda0751ea8672b139396efd5a5956ca04d5b648db3e9cd3f6361097fb6.ctv
 [HD]明珠,https://stream1.freetv.fun/bd65d6374c3c3c8ea7096fc423bea1a52858c6e9f2e61a8ffaf70b03ede938b1.ctv
 [BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
@@ -220,7 +221,7 @@ Movies,#genre#
 [VGA]湖南电影,https://stream1.freetv.fun/5fb96a5c6a1d9e78428484819e62bb2e1a6bd1cd58c1fbfa5dbf1bddb4503c2a.ctv
 [VGA]湖南电视剧,https://stream1.freetv.fun/04681be00a082456d4aa9991265615bd0818f38d2e042c22b8ad47b6e05c615b.ctv
 [HD]绍兴文化影视,https://stream1.freetv.fun/e46895f728cf01af107df98927c3bd0664dc452a60f2d117abef3ab9b0b6768f.m3u8
-[BD]经典电影_*x,https://stream1.freetv.fun/d680d32d63e35f728c4c5bd993c258eaaa12d4bbe3844373e10e050578fc3294.m3u8
+[SD]经典港片电影,https://stream1.freetv.fun/346fdf2d901253fe68a9511c255abe72ce0f36fcd9f0b679b5ec4a2c3d6cb6fc.ctv
 [HD]纬来电影,https://stream1.freetv.fun/69478d8fd9d97410123fe7a7c1d10612b415d6e6c4966dc6a8a3bc3148ff458e.ctv
 [HD]美亚电影,https://stream1.freetv.fun/5ba5784d5512b5c0eb223dc9718bc8523b5bcb18ea8dfb02eecfd70e4a089719.ctv
 [HD]老卓电影,https://stream1.freetv.fun/82064c68bd8ae5b934a2c73d2bac1be4f0370bba1642a116993ab723c89f30ad.ctv
@@ -2010,7 +2011,6 @@ Test,#genre#
 [BD]documentary_plus,https://stream1.freetv.fun/7b508d7fb0954dd5fcf6b8202417831b73c59032075ca66bf0deb741502805e6.m3u8
 [VGA]cctv9,https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.ctv
 [BD]asharq_documentary,https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8
-[BD]幸福空间居家,https://stream1.freetv.fun/efdfcca17406c5a0d1f28afb087a7d965f2be3ce754c0a0b2c13d087be1966f9.ctv
 
 其它,#genre#
 [VGA]cctv俄语,https://stream1.freetv.fun/64be70c8173273b7c3e790bd3b3e5a5ec61d3b52b6ecec23f401248e220e1d76.ctv
@@ -2472,27 +2472,7 @@ Test,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
-央视频道,#genre#
-CCTV1,http://125.42.148.255:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://125.42.148.255:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://125.42.148.255:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://125.42.148.255:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://125.42.148.255:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://125.42.148.255:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://125.42.148.255:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://125.42.148.255:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://125.42.148.255:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://125.42.148.255:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://125.42.148.255:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://125.42.148.255:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道,#genre#
-江西卫视,http://125.42.148.255:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://125.42.148.255:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-其他频道,#genre#
-北京卡通,http://125.42.148.255:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://125.42.148.255:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 央视高清,#genre#
 CCTV-1_综合,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV-2_财经,http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYpSLOWx8KnbAEA%2FNlMdpMt4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
